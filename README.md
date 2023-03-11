@@ -6,6 +6,6 @@
 - 5
 - Kihagytam egy szamot!
 
-[Nyomd meg a gombot]("https://vanenet.hu")
+[Nyomd meg a gombot](macska.jpg)
 
 ![macksa](macska.jpg)
