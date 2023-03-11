@@ -8,4 +8,4 @@
 
 [Nyomd meg a gombot]("vanenet.hu")
 
-!(https://as2.ftcdn.net/v2/jpg/03/03/62/45/1000_F_303624505_u0bFT1Rnoj8CMUSs8wMCwoKlnWlh5Jiq.jpg)
+!(https://media.istockphoto.com/id/157572991/photo/cool-cat.jpg?s=1024x1024&w=is&k=20&c=GD-4-8n4_28AgqqvUE8OC8_KIabSe15iZZD2hQMCkLM=)
