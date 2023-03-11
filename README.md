@@ -4,7 +4,7 @@
 -2
 -3
 -5
--Kihagytam egy szamot
+-Kihagytam egy szamot!
 
 [Nyomd meg a gombot]("vanenet.hu")
 
